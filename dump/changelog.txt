@@ -31,6 +31,10 @@ Thank you so much to Alex for getting 1v1.lol to work!
 ^ Added more reviews
 - Disable setting for new game notifications due to issues
 ------------------------------------------------------------
+Mov, 11
+^ changed how webretro loads roms
++ also added plenty more roms :)
+------------------------------------------------------------
 Nov, 10
 ^ Added more reviews
 ------------------------------------------------------------
