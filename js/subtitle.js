@@ -352,6 +352,11 @@ say[352] = "ඞ amongus";
 say[353] = "Now with over 200 games!";
 say[354] = "Hello mario";
 say[355] = "furryeboy";
+say[356] = "Pin this if you love your fans";
+say[357] = "use abnumality.github.io";
+say[358] = "Graphic design is my passion.";
+say[359] = "YOU'RE CRINGE!";
+say[360] = "Spongebob, Spongebob, Patrick, Patrick, Squidward, Squidward, Sandy, Sandy";
 
 // pick a random greeting
 var howmany = say.length;
