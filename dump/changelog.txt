@@ -18,8 +18,12 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 - Means something was removed
 ------------------------------------------------------------
 Nov, 13
++ Added Bad Ice Cream
++ Added Bad Ice Cream 2
++ Added Bad Ice Cream 3
 + Added Generic Fishing Game
 + Added Synesthesia
+^ Updated changlog for a mistake
 ------------------------------------------------------------
 Nov, 12
 Thank you so much to Alex for getting 1v1.lol to work!
@@ -32,8 +36,8 @@ Thank you so much to Alex for getting 1v1.lol to work!
 - Disable setting for new game notifications due to issues
 ------------------------------------------------------------
 Nov, 11
-^ changed how webretro loads roms
-+ also added plenty more roms :)
+^ Changed how webretro loads roms
++ Also added plenty more roms
 ------------------------------------------------------------
 Nov, 10
 ^ Added more reviews
